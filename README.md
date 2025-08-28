@@ -21,8 +21,11 @@ A simple weather forecasting application built with **React** and **Material-UI*
 const WEATHER_API_KEY = "your_api_key_here";
 
 ## Installation
+
 ```
 git clone https://github.com/ma-ni-434/Weather_Forecast.git
+
 cd weather-forecast
 npm install
+
 ```
