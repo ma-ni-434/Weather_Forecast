@@ -19,7 +19,7 @@ A simple weather forecasting application built with **React** and **Material-UI*
 
 ```javascript
 const WEATHER_API_KEY = "your_api_key_here";
-
+```
 ## Installation
 
 ```
